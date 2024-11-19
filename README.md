@@ -1,4 +1,9 @@
 # Amazon Prime-Analysis-using-Python
+**Amazon Prime Data Analysis Using Python** involves Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn to extract insights from Amazon Prime's data . The analysis typically includes tasks like:
+
+1. **Data Cleaning and Preprocessing:** Handling missing values, parsing dates, and preparing the dataset for analysis.
+2. **Visualizations:** Using Matplotlib and Seaborn to create bar charts,pie charts, and histograms for clear representation of trends and patterns.
+3. **Insights:** Identifying top-performing directors, analyzing viewer preferences, and understanding global content availability trends.
 
 This Data analysis offers an overview of the movie catalog on Amazon Prime, providing key information and visualization for exploring different areas of the dataset. The users can engage with the data and analyze trends behind Amazon Prime's movie collection.
 
